@@ -7,7 +7,7 @@ O projeto RL_Design consiste na criação de um dashboard interativo no Power BI
 ![GIF](RL_Design.gif) 
 
 **Link para acessar o dashboard no Power BI:** 
-<a href="Studio-RL-Design" style="font-size: 14px;">Studio RL_Design</a></span>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiODk5MjRiNjQtMzI2Ny00YjM5LWI1ZGUtNDljZGE2YTM5ZGQzIiwidCI6ImNlYWQ1NmU3LWU5MWEtNDFkMC1iMGU3LTE4N2JiMzgwNjFiZiIsImMiOjR9" style="font-size: 14px;">Studio RL_Design</a></span>
 
 ## Dados Analisados
 
